@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Generic
+title: Algorithm and Data Structures
 description: Lorem ipsum dolor est
 image: assets/images/pic11.jpg
 nav-menu: true
