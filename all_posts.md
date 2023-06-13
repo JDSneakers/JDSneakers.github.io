@@ -1,7 +1,7 @@
 ---
 layout: allposts
-title: All posts1
-landing-title: 'All posts2'
+title: Professional Self-Assessment
+landing-title: 'Professional Self-Assessment'
 nav-menu: true
 description: null
 image: null
@@ -9,4 +9,4 @@ author: null
 show_tile: false
 ---
 
-<h1>All posts3</h1>
+<h1>Professional Self-Assessment</h1>
