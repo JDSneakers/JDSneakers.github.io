@@ -1,6 +1,6 @@
 ---
 title: Databases
-layout: landing
+layout: post
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
