@@ -1,12 +1,12 @@
 ---
-layout: allposts
+layout: post
 title: Professional Self-Assessment
 landing-title: 'Professional Self-Assessment'
 nav-menu: true
 description: null
 image: null
 author: null
-show_tile: false
+show_tile: true
 ---
 
 <h1>Professional Self-Assessment</h1>
