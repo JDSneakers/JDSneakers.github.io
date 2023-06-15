@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Software Design and Engineering
-image: assets/images/pic01.jpg
+image: assets/images/softwaredesign.jpg
 nav-menu: true
 ---
 
