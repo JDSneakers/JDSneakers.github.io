@@ -7,7 +7,7 @@ description: null
 image: null
 author: null
 show_tile: true
-image: assets/images/selfassessment.jpg
+image: assets/images/newselfassessment.jpg
 ---
 
 <!-- Main -->
