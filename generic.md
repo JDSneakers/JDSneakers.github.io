@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Algorithm and Data Structures
-image: assets/images/pic11.jpg
+image: assets/images/algorithm.jpg
 nav-menu: true
 ---
 
