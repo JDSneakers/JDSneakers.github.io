@@ -1,7 +1,7 @@
 ---
 title: Databases
 layout: post
-image: assets/images/pic07.jpg
+image: assets/images/databases.jpg
 nav-menu: true
 ---
 
