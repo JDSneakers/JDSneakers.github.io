@@ -7,7 +7,7 @@ description: null
 image: null
 author: null
 show_tile: true
-image: assets/images/pic03.jpg
+image: assets/images/professionalassessment.jpg
 ---
 
 <!-- Main -->
