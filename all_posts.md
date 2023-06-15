@@ -43,7 +43,7 @@ image: assets/images/newselfassessment.jpg
 	</section>
 	<section>
 		<a href="generic.html" class="image">
-			<img src="{% link assets/images/algorithm.jpg %}" alt="" data-position="top center" />
+			<img src="{% link assets/images/algorithmsquare.jpg %}" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
