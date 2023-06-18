@@ -22,10 +22,6 @@ image: assets/images/newselfassessment.jpg
 	.yt-holder{
 		position: relative;
 	}
-
-	.yt-holder iframe{
-		position: absolute;
-	}
 </style>
 </head>
 
@@ -44,29 +40,29 @@ image: assets/images/newselfassessment.jpg
 		<p>I met multiple course outcomes for this assignment showcasing my strengths in the computer science field by demonstrating my ability to use well-founded and innovative techniques, skills, and tools by researching how to hash data that needs to be stored securely, finding a reliable solution in a prebuilt library, and implementing that library into my artifact. I developed a security mindset in doing this that anticipated adversarial exploits in software architecture and designs with the user database by exposing potential vulnerabilities in the fact that the user password was previously being stored as plain text in the database. I developed a solution to mitigate the design flaw and ensure privacy by hashing the user password before storing it in the database. Ensuring the privacy of the sensitive data stored in the database. I employed strategies for building collaborative environments that enable diverse audiences to support organizational decision-making in the field of computer science by enhancing the in-code comments that improved the understandability of the code’s functions and allows for other industry professionals to come in and collaborate within the project when needed. The comments also allow stakeholders to easily review the code's functionality and make design changes and improvements that better meet their expectations prior to the deployment of the code. I demonstrated my ability to use well-founded and innovative techniques, skills, and tools in computing practices for the purpose of implementing computer solutions that deliver value and accomplish industry-specific goals by completing the enhancements to the storage and security of user passwords through hashing the password prior to storing them in the database which meets industry-standard software designs and best practices.</p>
 		<p>In conclusion, these artifacts not only align with the course outcomes but also paint a comprehensive picture of my competencies and growth as a computer science student. They showcase my proficiency in designing user-friendly software, implementing efficient algorithms, safeguarding data privacy, and facilitating effective collaboration, thereby encapsulating the full range of my talents and abilities.</p>
 		<section>
-<div class="row">
-	<div class="6u 12u$(small)">
-		<h3>Code Review</h3>
-		<div class="container">
-			<div class="yt-holder">
-				<iframe width="560" height="315" src="https://www.youtube.com/embed/2m1aBVae1c0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-			</div>
+
+<div class="6u 12u$(small)">
+	<h3>Code Review</h3>
+	<div class="container">
+		<div class="yt-holder">
+			<iframe width="560" height="315" src="https://www.youtube.com/embed/2m1aBVae1c0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 		</div>
 	</div>
-	<div class="6u$ 12u$(small)">
-		<h3>Table Of Contents</h3>
-		<ul>
-			<li>0:00 - Intro</li>
-			<li>2:10 - Databases</li>
-			<li>12:10 - Software Design and Engineering</li>
-			<li>1:19:41 - Android Inventory Management App Review Checklist</li>
-			<li>1:34:14 - Algorithms and Data Structures</li>
-			<li>1:54:07 - Binary Search Tree Review Checklist</li>
-		</ul>
-	</div>
 </div>
-		</section>
-	</div>
+<div class="6u$ 12u$(small)">
+	<h3>Table Of Contents</h3>
+	<ul>
+		<li>0:00 - Intro</li>
+		<li>2:10 - Databases</li>
+		<li>12:10 - Software Design and Engineering</li>
+		<li>1:19:41 - Android Inventory Management App Review Checklist</li>
+		<li>1:34:14 - Algorithms and Data Structures</li>
+		<li>1:54:07 - Binary Search Tree Review Checklist</li>
+	</ul>
+</div>
+
+</section>
+</div>
 </section>
 
 
