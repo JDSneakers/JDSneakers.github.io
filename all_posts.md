@@ -14,6 +14,7 @@ image: assets/images/newselfassessment.jpg
 <style type="text/css">
 
 	.container{
+		max-width: 800px
 		width: 100%;
 		height: 100%;
 		position: relative;
@@ -49,7 +50,7 @@ image: assets/images/newselfassessment.jpg
 	<div class="6u 12u$(small)">
 		<h3>Code Review1</h3>
 		<div class="container">
-			<iframe width="100%" height="100%" src="https://www.youtube.com/embed/2m1aBVae1c0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+			<iframe width="560" height="315" src="https://www.youtube.com/embed/2m1aBVae1c0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 		</div>
 	</div>
 	<div class="6u$ 12u$(small)">
