@@ -16,6 +16,7 @@ image: assets/images/newselfassessment.jpg
 	.container{
 		max-width: 800px;
 		margin: 0 auto;
+		width: 100%;
 		overflow: hidden;
 	}
 
@@ -39,9 +40,7 @@ image: assets/images/newselfassessment.jpg
 		<p>I completed all of my planned enhancements for this artifact throughout my coursework, demonstrating my ability to work with algorithms and manage large data sets with industry-standard best practices. I designed and evaluated computing solutions that solve a given problem using algorithmic principles and computer science practices and standards appropriate to its solution while managing the trade-offs involved in design choices by enhancing the program in two ways, first, which was by adding a deconstructor that prevents memory leaks and adding a secondary binary search tree for filtering by amount bid which further expanded on the overall functionality of the program. This did two things, demonstrated best practices in implementing a deconstructor and demonstrated my ability to program practical solutions that a client would want from the program and implement it into the software. I developed a security mindset that anticipates adversarial exploits in software architecture and designs to expose potential vulnerabilities, mitigate design flaws, and ensure privacy and enhanced security of data and resources by enhancing issues in the code that caused the program to break and be vulnerable to buffer overflow attacks by checking the user input and making sure it is an expected input, if not the program will print out an error message and prompt the user to reenter the correct input. I designed, developed, and delivered professional-quality oral, written, and visual communications that are coherent, technically sound, and appropriately adapted to specific audiences and contexts by communicating proficiently and identifying areas of improvement, and offering suggestions for optimizing the overall code quality and implementing the solutions for them. I employed strategies for building collaborative environments that enable diverse audiences to support organizational decision-making in the field of computer science by enhancing the in-code comments, making them easily readable, and giving descriptive notes on the parameters being passed to each method. I demonstrated my ability to make supportive decision-making for software design stakeholders by implementing practical use case enhancements to the program with additional functionality such as being able to search by specific bid id and searching by a range of bid amounts. Each of these offers stakeholders valuable functionality that can be adapted to multiple use cases not just in this program but in future development of other software as well.</p>
 		<p>I met multiple course outcomes for this assignment showcasing my strengths in the computer science field by demonstrating my ability to use well-founded and innovative techniques, skills, and tools by researching how to hash data that needs to be stored securely, finding a reliable solution in a prebuilt library, and implementing that library into my artifact. I developed a security mindset in doing this that anticipated adversarial exploits in software architecture and designs with the user database by exposing potential vulnerabilities in the fact that the user password was previously being stored as plain text in the database. I developed a solution to mitigate the design flaw and ensure privacy by hashing the user password before storing it in the database. Ensuring the privacy of the sensitive data stored in the database. I employed strategies for building collaborative environments that enable diverse audiences to support organizational decision-making in the field of computer science by enhancing the in-code comments that improved the understandability of the code’s functions and allows for other industry professionals to come in and collaborate within the project when needed. The comments also allow stakeholders to easily review the code's functionality and make design changes and improvements that better meet their expectations prior to the deployment of the code. I demonstrated my ability to use well-founded and innovative techniques, skills, and tools in computing practices for the purpose of implementing computer solutions that deliver value and accomplish industry-specific goals by completing the enhancements to the storage and security of user passwords through hashing the password prior to storing them in the database which meets industry-standard software designs and best practices.</p>
 		<p>In conclusion, these artifacts not only align with the course outcomes but also paint a comprehensive picture of my competencies and growth as a computer science student. They showcase my proficiency in designing user-friendly software, implementing efficient algorithms, safeguarding data privacy, and facilitating effective collaboration, thereby encapsulating the full range of my talents and abilities.</p>
-		<section>
-
-
+<section>
 
 <div class="container">
 	<div class="yt-holder">
@@ -52,7 +51,7 @@ image: assets/images/newselfassessment.jpg
 	</div>
 </div>
 
-<div class="6u$ 12u$(small)">
+<div style="margin: 0px auto; text-align: center;">
 	<h3>Table Of Contents</h3>
 	<ul>
 		<li>0:00 - Intro</li>
