@@ -42,7 +42,7 @@ image: assets/images/newselfassessment.jpg
 		</div>
 	</section>
 	<section>
-		<a href="generic.html" class="image">
+		<a href="algorithm.html" class="image">
 			<img src="{% link assets/images/algorithmsquare.jpg %}" alt="" data-position="top center" />
 		</a>
 		<div class="content">
@@ -52,7 +52,7 @@ image: assets/images/newselfassessment.jpg
 				</header>
 				<p>The artifact I chose to demonstrate my abilities with algorithms and data structures is the binary search tree program I created in my CS-260 course in October 2021. It is a program that presents a menu for the user to load auction bids from a CSV file, print them to the screen, allow the user to also search for a specific bid by its id, and remove a specific bid from the data set.</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="algorithm.html" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
