@@ -18,6 +18,9 @@ nav-menu: true
 <!-- Content -->
 <h2 id="content">Describe the Artifact</h2>
 <p>The artifact I chose to demonstrate my skills in databases is the inventory app from my CS-360 course that I completed at the end of October 2022. It is an inventory management system designed as an Android app that manages three databases within the app, the user database, the category database, and the item database. It allows users to have a secure way to access and manage a database intuitively on a mobile device.</p>
+<ul class="actions">
+	<li><a href="https://github.com/JDSneakers/Android_Inventory_App_NewVersion/blob/master/app/src/main/java/com/zybooks/johnaustininventoryapp/InventoryDatabase.java" class="button special icon fa-github">See Code</a></li>
+</ul>
 <div class="row">
 	<div class="6u 12u$(small)">
 		<h3>Justify the Inclusion</h3>
