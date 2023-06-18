@@ -24,7 +24,7 @@ image: assets/images/newselfassessment.jpg
 		position: relative;
 	}
 
-	.yt-holder{
+	.yt-holder iframe{
 		postion: absolute;
 		width: 100%;
 		height 100%;
