@@ -26,7 +26,7 @@ image: assets/images/newselfassessment.jpg
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-		<a href="software-design-engineering.html" class="image">
+		<a href="elements.html" class="image">
 			<img src="{% link assets/images/softwaredesignsquare.jpg %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
@@ -36,7 +36,7 @@ image: assets/images/newselfassessment.jpg
 				</header>
 				<p>The artifact I chose to demonstrate my abilities in software design and engineering is the Android inventory managment app I created in my CS-360 course in October of 2022. It requires the user to create a login that allows them to access the inventory app. Once logged in the user has multiple categories in which they can store various inventory items. The app allows the user to create, edit, and delete categories and items once inside each category.</p>
 				<ul class="actions">
-					<li><a href="software-design-engineering.html" class="button">Learn more</a></li>
+					<li><a href="elements.html" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
