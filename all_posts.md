@@ -59,7 +59,7 @@ image: assets/images/newselfassessment.jpg
 
 <div style="margin: 0px auto; text-align: center;">
 	<h3>Table Of Contents</h3>
-	<ul>
+	<ul class="alt">
 		<li>0:00 - Intro</li>
 		<li>2:10 - Databases</li>
 		<li>12:10 - Software Design and Engineering</li>
