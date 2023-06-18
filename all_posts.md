@@ -117,7 +117,7 @@ image: assets/images/newselfassessment.jpg
 				<header class="major">
 					<h3>Databases</h3>
 				</header>
-				<p>The artifact I choose to demonstrate my skills in databases is the inventory app from my CS-360 course that I completed at the end of October 2022. It is an inventory management system designed as an Android app that manages three databases within the app, the user database, the category database, and the item database. It allows users to have a secure way to access and manage a database intuitively on a mobile device.</p>
+				<p>The artifact I chose to demonstrate my skills in databases is the inventory app from my CS-360 course that I completed at the end of October 2022. It is an inventory management system designed as an Android app that manages three databases within the app, the user database, the category database, and the item database. It allows users to have a secure way to access and manage a database intuitively on a mobile device.</p>
 				<ul class="actions">
 					<li><a href="landing.html" class="button">Learn more</a></li>
 				</ul>
