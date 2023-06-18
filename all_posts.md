@@ -53,7 +53,9 @@ image: assets/images/newselfassessment.jpg
 		<h3>Code Review</h3>
 		<div class="container">
 			<div class="yt-holder">
-		<iframe width="560" height="315" src="https://www.youtube.com/embed/2m1aBVae1c0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+				<div style="padding-top: 56.25%">
+				<iframe width="100%" height="100%" src="https://www.youtube.com/embed/2m1aBVae1c0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+				</div>
 			</div>
 		</div>
 	</div>
