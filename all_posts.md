@@ -16,14 +16,13 @@ image: assets/images/newselfassessment.jpg
 	.container{
 		max-width: 100%;
 		margin: 0 auto;
-	}
-	.yt-holder{
-		position:relative;
-		padding-bottom: 56.25%;
-		height: 0;
+		position: relative;
 		overflow: hidden;
+		height: 0;
+		padding-bottom: 56.25%;
 	}
-	.yt-holder iframe {
+
+	.container iframe {
 		postion: absolute;
 		top: 0;
 		left: 0;
@@ -50,13 +49,9 @@ image: assets/images/newselfassessment.jpg
 		<section>
 <div class="row">
 	<div class="6u 12u$(small)">
-		<h3>Code Review</h3>
+		<h3>Code Review1</h3>
 		<div class="container">
-			<div class="yt-holder">
-				<div style="padding-top: 56.25%">
-				<iframe width="100%" height="100%" src="https://www.youtube.com/embed/2m1aBVae1c0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-				</div>
-			</div>
+			<iframe width="560" height="315" src="https://www.youtube.com/embed/2m1aBVae1c0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 		</div>
 	</div>
 	<div class="6u$ 12u$(small)">
