@@ -19,7 +19,6 @@ image: assets/images/newselfassessment.jpg
 		margin: 0 auto;
 		position: relative;
 		overflow: hidden;
-		padding-bottom: 56.25%;
 	}
 
 	.container iframe {
@@ -49,7 +48,7 @@ image: assets/images/newselfassessment.jpg
 		<section>
 <div class="row">
 	<div class="6u 12u$(small)">
-		<h3>Code Review</h3>
+		<h3>Code Review1</h3>
 		<div class="container">
 			<iframe width="560" height="315" src="https://www.youtube.com/embed/2m1aBVae1c0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 		</div>
