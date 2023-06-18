@@ -41,16 +41,17 @@ image: assets/images/newselfassessment.jpg
 		<p>In conclusion, these artifacts not only align with the course outcomes but also paint a comprehensive picture of my competencies and growth as a computer science student. They showcase my proficiency in designing user-friendly software, implementing efficient algorithms, safeguarding data privacy, and facilitating effective collaboration, thereby encapsulating the full range of my talents and abilities.</p>
 		<section>
 
-<div class="6u 12u$(small)">
-	<h3>Code Review</h3>
-	<div class="container">
-		<div class="yt-holder">
-			<div style="margin: 0px auto; text-align: center;">
-				<iframe width="560" height="315" src="https://www.youtube.com/embed/2m1aBVae1c0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-			</div>
+
+
+<div class="container">
+	<div class="yt-holder">
+		<div style="margin: 0px auto; text-align: center;">
+		<h3>Code Review</h3>
+			<iframe width="560" height="315" src="https://www.youtube.com/embed/2m1aBVae1c0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 		</div>
 	</div>
 </div>
+
 <div class="6u$ 12u$(small)">
 	<h3>Table Of Contents</h3>
 	<ul>
