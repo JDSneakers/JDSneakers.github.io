@@ -22,6 +22,10 @@ image: assets/images/newselfassessment.jpg
 	.yt-holder{
 		position: relative;
 	}
+
+	.yt-holder iframe{
+		position: absolute;
+	}
 </style>
 </head>
 
