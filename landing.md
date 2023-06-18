@@ -27,7 +27,7 @@ nav-menu: true
 		<h3>Reflect on the Process</h3>
 		<p>Through the planned enhancements of the Inventory Management app, I learned many valuable skills in problem-solving, security, and working with pre-existing libraries. The most challenging aspect of the enhancement was implementing the bcrypt library as it had limited documentation and was difficult to figure out how to integrate with the artifact. From this though I learned a lot about adding pre-existing libraries from GitHub into a project that I am working on. I learned about the importance of password hashing and how even though a person might not be able to exploit a SQL injection on the database, storing sensitive data such as user passwords as plain text in a database is bad practice and risks exploitation from malicious actors. I learned to problem solve and the importance of thorough documentation as I was on the receiving end of poor documentation and had to do a lot of research that also was not an easy task as would have been either better documentation, clearer comments, or a step-by-step guide on how to use the library and many of the resources I found were only partially useful or did not fit the scenario in how I was trying to use it. I was able to work my way through it regardless and problem-solve the situation so that I was able to implement the solution despite these issues.</p>
 	</div>
-	</section>
+</div>
 	</div>
-	</div>
-	</div>
+</section>
+</div>
