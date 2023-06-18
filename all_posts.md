@@ -14,11 +14,21 @@ image: assets/images/newselfassessment.jpg
 <style type="text/css">
 
 	.container{
-		max-width: 800px;
+		max-width: 100%;
 		margin: 0 auto;
 	}
 	.yt-holder{
-		position:relative
+		position:relative;
+		padding-bottom: 56.25%;
+		height: 0;
+		overflow: hidden;
+	}
+	.yt-holder iframe {
+		postion: absolute;
+		top: 0;
+		left: 0;
+		width: 100%;
+		height: 100%;
 	}
 </style>
 </head>
